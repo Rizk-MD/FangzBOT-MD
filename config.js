@@ -60,15 +60,15 @@ global.ppulsa2 = '0895394988123'
 global.psaweria = 'https://saweria.co/FangzBot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895394988123'
-global.nomorown = '6288215689772'
+global.nomorbot = '6283150688326'
+global.nomorown = '6283150688326'
 global.namebot = ' 「 FANGZ BOT ⁩㊣ 」'
 global.nameown = 'Fangz Ganz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288215689772'],
+  ['6283150688326'],
   ['62895336282144'],
   ['6288215689772'],
   ['6288215689772', 'Fangz Ganz', true]
